@@ -1,15 +1,11 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+Hola, mundo
 """
 
-# Declaraciones
-CONSTANTE = valor
-
 # Entradas
-entrada = input()
+nombre = input("¿Cómo te llamas?")
 
 # Proceso
-
-
+saludo= "Hola, "+ nombre + "."
 # Salidas
-print(salida)
+print(saludo)
